@@ -1,0 +1,2 @@
+# inner-labyrinth
+static website
